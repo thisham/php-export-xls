@@ -1,8 +1,0 @@
-{
-    "database": {
-        "name" : "database",
-        "user" : "root",
-        "pass" : "",
-        "host" : "localhost"
-    }
-}
